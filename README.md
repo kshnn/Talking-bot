@@ -6,6 +6,6 @@ Modules required:-
   2.pyttsx3                   -----pip install pyttsx3
   3.3SpeechRecognition          ---- pip install SpeechRecognition
 
-Note: Download 'dq.sqlite3' file provided along with the program place it in the same directry  in order to run correctly.
+Note: Download 'dq.sqlite3' file provided along with the program and place it in the same directry  in order to run correctly.
 
 reference:https://realpython.com/python-speech-recognition/
