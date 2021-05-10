@@ -1,5 +1,5 @@
 # Talking-bot
-talking bot using python
+I made this talking bot using python,during the internship with Dlithe.
 
 Modules required:-
   1.Chatterbot(version-0.8.6) -----pip install chatterbot==0.8.6
