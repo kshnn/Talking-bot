@@ -11,6 +11,7 @@ Modules required:-
 
 
 Note: *Download 'dq.sqlite3' file provided along with the program and place it in the same directry  in order to run correctly.
+      *I used python 3.7.8, may not work with latest versions
       *Requires Internet connection for speech recognition.
       *Talk loud and clear.
 
